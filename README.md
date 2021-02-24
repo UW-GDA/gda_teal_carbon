@@ -10,6 +10,7 @@ Wetlands disproportionately contribute to the overall terrestrial carbon pool by
 This approach utilizes raster data layers and soil carbon point data to provide an estimate of soil carbon across the Hoh River watershed area in Washington State. The raster layers are derived from a wetland identification model and soil carbon data were measured at 7 locations in September 2020.
 ![Preliminary Data](carbonstockplot.jpeg)
 
+
 ### Datasets
 * SRTM 1 Arc-Second GeoTiffs downloaded from USGS EarthExplorer
     * These DEMs will be used to calculate topography metrics 
